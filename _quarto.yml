@@ -1,0 +1,2 @@
+execute:
+  python: "venv/bin/python"
